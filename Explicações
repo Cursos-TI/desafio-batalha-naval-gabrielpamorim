@@ -1,0 +1,11 @@
+O tabuleiro é um array 2D 10x10 inicializado com zeros.
+
+Dois navios tamanho 3 são definidos: um horizontal e outro vertical, com coordenadas fixas.
+
+O programa verifica se os navios cabem no tabuleiro (limites).
+
+Verifica se os navios se sobrepõem.
+
+Se estiver tudo ok, posiciona os navios no tabuleiro (valor 3).
+
+Exibe o tabuleiro com os navios visíveis.
